@@ -6,7 +6,7 @@
 #
 
 gaps inner 15
-gaps outer 15
+gaps outer 0
 
 # i3 config file (v4)
 #
